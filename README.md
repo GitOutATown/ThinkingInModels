@@ -1,1 +1,1 @@
-# ThinkingInModels
+# Thinking in Models
