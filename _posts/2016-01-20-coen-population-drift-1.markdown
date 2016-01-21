@@ -2,7 +2,6 @@
 layout: post
 title:  "Natural Selection and Population Drift (Part 1)"
 date:   2016-01-20 11:18:25 -0800
-categories: cells to civilizations
 ---
 Inspired by reading the first chapter in Enrico Coen's *Cells to Civilizations*, I decided to code my interpretation of the algorithm he describes for using two colors of marble to characterize the properties of population drift. Coen poses four principles whereby...
 
