@@ -13,7 +13,6 @@ Inspired by reading the first chapter in Enrico Coen's *Cells to Civilizations*,
 <script src="/js/pop_drift_lab_8x.js"></script>
 
 <script>
-//console.log("TOP");
 
   var data = run();
 
